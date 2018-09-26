@@ -1,0 +1,5 @@
+Audio Driver Error - Check Audio Device # and change in "pahandle1 = PsychPortAudio('Open', 4, [], 2, Fs1, 1, 0);"
+
+###
+devices = PsychPortAudio('GetDevices',[],[]);
+###
